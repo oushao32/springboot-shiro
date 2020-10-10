@@ -1,2 +1,2 @@
 # springboot-shiro
-springboot-shiro
+整合了shiro做的一个授权认证注销管理的一个小demo适合大家研究和上手
